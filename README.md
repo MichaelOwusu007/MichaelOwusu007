@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Owusu</h1>
-<h3 align="center">As a dedicated front-end software developer. I specialize in creating websites and web applications, combining technical expertise with an aptitude for design. My proficiency extends to crafting user-friendly interfaces and ensuring seamless functionality.I have a sharp eye for detail and am dedicated to turning your web vision into reality.With a passion for innovation, I leverage my front-end skills to transform ideas into impactful digital</h3>
+<h3 align="center">As a dedicated front-end software developer. I specialize in creating websites and web applications, combining technical expertise with an aptitude for design. My proficiency extends to crafting user-friendly interfaces and ensuring seamless functionality.I have a sharp eye for detail and am dedicated to turning your web vision into reality.With a passion for innovation, I leverage my front-end skills to transform ideas into impactful digital experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelowusu007&label=Profile%20views&color=0e75b6&style=flat" alt="michaelowusu007" /> </p>
 
